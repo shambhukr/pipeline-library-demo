@@ -7,5 +7,5 @@ def warning(message) {
 }
 
 def returnStr(message) {
-    return ${message}
+    return "message"
 }
